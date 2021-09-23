@@ -15,6 +15,9 @@ export default defineComponent({
 </script>
 
 <style>
+body{
+  margin: 0px;
+}
 #container {
   position: absolute;
   width: 100%;
